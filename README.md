@@ -151,8 +151,3 @@ def test_tool_functionality():
 ## Contributing
 
 This project is under development. Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-MIT
-'''
